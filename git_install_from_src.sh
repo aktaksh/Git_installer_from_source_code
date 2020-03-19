@@ -14,6 +14,6 @@
  yum install perl-ExtUtils-CBuilder perl-ExtUtils-MakeMaker -y 
  make &&
  make install
- cd ~
+# cd ~
  git --version
  ln -s /root/bin/git /usr/bin/git
